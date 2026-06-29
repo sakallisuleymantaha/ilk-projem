@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color primary_green
+color primary_green_dark
+color secondary_orange
+color white
+string app_name
+style Theme.HayvanOgren
